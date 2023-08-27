@@ -46,6 +46,23 @@ Case 3: Help switch added to let the user know about its usage
 
 # Day 2:Variable Creation and Processing Constraints from CSV
 
+Today's agenda will be converting all inputs into the required format i.e. format[1] & SDC format & passing it to the tool YOSYS.
+
+Tasks involved 
+i.create variables
+ii.To check if directories & files are mentioned in the .csv exists or not 
+iii. Read constraint file for above .csv & convert to sdc format
+iv. Read all files in  netlist directory
+v. create main synthesis script in format [2]
+vi. pass this script to yosys
+
+
+https://github.com/srsapireddy/TCL-Automation/commit/18a51573a96cf61cc2909318f16dd96e38cef9ea#diff-8dc4330795d861e465a362292aa1204474aa48e16f7db63e28df1816e7ab7a80
+
+
+
+
+
 
 
 
