@@ -29,9 +29,21 @@ Contents of the input file openMSP430_design_details.csv
 
 <img width="409" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/34841bf6-2bc3-4a1b-bf6c-bb27ad713309">
 
-Step 1: Created a shell script with the name my_tcl_utility 
+Step 1: Create a shell script with the name my_tcl_utility 
 
 Case 1: When No arguments are given to the shell script 
+
+<img width="844" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/faaba821-8861-496d-a11e-2cad57aa85d8">
+
+Case 2 When the wrong argument is given / file doesn't exist in pwd
+
+<img width="841" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/5a6a03e2-1ce2-4bcf-9782-5f8d6d20ebd9">
+
+Case 3: Help switch added to let the user know about its usage 
+
+<img width="842" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/1a786869-f7af-4263-bd6e-90f60edc3c22">
+
+
 
 
 
