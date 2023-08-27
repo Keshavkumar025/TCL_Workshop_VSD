@@ -49,12 +49,17 @@ Case 3: Help switch added to let the user know about its usage
 Today's agenda will be converting all inputs into the required format i.e. format[1] & SDC format & passing it to the tool YOSYS.
 
 Tasks involved 
-i.create variables
-ii.To check if directories & files are mentioned in the .csv exists or not 
-iii. Read constraint file for above .csv & convert to sdc format
-iv. Read all files in  netlist directory
-v. create main synthesis script in format [2]
-vi. pass this script to yosys
+1. Create variables
+
+2. To check if directories & files are mentioned in the .csv exist or not
+
+3. Read constraint file for the above .csv & convert it to sdc format
+   
+4. Read all files in  netlist directory
+  
+5. Create the main synthesis script in format [2]
+   
+6. Pass this script to Yosys
 
 
 
