@@ -29,6 +29,11 @@ Contents of the input file openMSP430_design_details.csv
 
 <img width="409" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/34841bf6-2bc3-4a1b-bf6c-bb27ad713309">
 
+Step 1: Created a shell script with the name my_tcl_utility 
+
+Case 1: When No arguments are given to the shell script 
+
+
 
 
 
