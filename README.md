@@ -44,6 +44,11 @@ Case 3: Help switch added to let the user know about its usage
 <img width="842" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/1a786869-f7af-4263-bd6e-90f60edc3c22">
 
 
+# Day 2:Variable Creation and Processing Constraints from CSV
+
+
+
+
 
 
 
