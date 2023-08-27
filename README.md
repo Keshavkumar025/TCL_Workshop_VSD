@@ -57,9 +57,6 @@ v. create main synthesis script in format [2]
 vi. pass this script to yosys
 
 
-https://github.com/srsapireddy/TCL-Automation/commit/18a51573a96cf61cc2909318f16dd96e38cef9ea#diff-8dc4330795d861e465a362292aa1204474aa48e16f7db63e28df1816e7ab7a80
-
-https://github.com/fayizferosh/yosys-tcl-ui-report
 
 
 
