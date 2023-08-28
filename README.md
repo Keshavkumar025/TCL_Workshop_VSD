@@ -61,6 +61,22 @@ Tasks involved
    
 6. Pass this script to Yosys
 
+The below snapshot shows step 1 i.e. creating the variables 
+
+<img width="842" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/09d122e1-494d-475c-8dda-f42f79998cef">
+
+step 2 : Snapshot showing checking the existence of directories & files.
+
+<img width="831" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/e1f55268-2da1-48e1-84ae-30b0d1e1e574">
+
+
+
+
+
+
+
+
+
 
 
 
