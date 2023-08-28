@@ -69,6 +69,14 @@ step 2 : Snapshot showing checking the existence of directories & files.
 
 <img width="831" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/e1f55268-2da1-48e1-84ae-30b0d1e1e574">
 
+Step 3: Reading  & Processing the constraints file to convert it to SDC format
+
+<img width="841" alt="image" src="https://github.com/Keshavkumar025/TCL_Workshop_VSD/assets/60691479/3c64b60a-33d4-4f77-9d5f-09902513cdfd">
+
+
+# Day 3:Processing Clock and Input Constraints 
+
+
 
 
 
